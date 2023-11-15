@@ -1,459 +1,459 @@
 [[SDPLR]]
 arch = "aarch64"
-git-tree-sha1 = "0fa21bc923e7fbaf299ce08685ba9888c0fe3c57"
+git-tree-sha1 = "e808c2260c2d4628aa7eea21d96b8dd3536f6126"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[SDPLR.download]]
-    sha256 = "6b84ac9451ff6021b7efd0012c0e5135f8192813fb3ee5e9a88922f2174b09a1"
-    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v1.0.3+0/SDPLR.v1.0.3.aarch64-apple-darwin-libgfortran5.tar.gz"
+    sha256 = "f6f19af7628663e85d60174adc8c2404f3b2001707e17f4061f9f5f6bc6a2186"
+    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v100.1.300+0/SDPLR.v100.1.300.aarch64-apple-darwin-libgfortran5.tar.gz"
 [[SDPLR]]
 arch = "aarch64"
-git-tree-sha1 = "f190a70b1d8b95994399aa982b306e76e7b41c45"
+git-tree-sha1 = "77f2b00a5d466c77722e45b85b76ee884ece95bf"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[SDPLR.download]]
-    sha256 = "e551729bfb5347adffb107d1586c20eb791d2393ec8f1c4fce98f3bfd63e87e3"
-    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v1.0.3+0/SDPLR.v1.0.3.aarch64-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "7c7362cdf751f94a1bcab0b11e6b68ab12535be2ead3803f0b3d352822d493ea"
+    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v100.1.300+0/SDPLR.v100.1.300.aarch64-linux-gnu-libgfortran3.tar.gz"
 [[SDPLR]]
 arch = "aarch64"
-git-tree-sha1 = "fae03a8f304faaa77c668c210073e8a66b875e3b"
+git-tree-sha1 = "764f3cf317ccfb06b4b48526dccff9b51e31291d"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[SDPLR.download]]
-    sha256 = "652ddd0402c522e59e491308f40d1fa5b1d28a3fb91626e8f4f85f28e032a2f5"
-    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v1.0.3+0/SDPLR.v1.0.3.aarch64-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "b92d73261297de22cf4861e383e2bcca2d0ceb4382b9f6ae77cc4a06c33b5997"
+    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v100.1.300+0/SDPLR.v100.1.300.aarch64-linux-gnu-libgfortran4.tar.gz"
 [[SDPLR]]
 arch = "aarch64"
-git-tree-sha1 = "00e7a85acb4749fde9edcc7024ed9e11dca45c9f"
+git-tree-sha1 = "87c17bfa3779a1fd1344306b5928d3aaebf6e2e6"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SDPLR.download]]
-    sha256 = "45cd8379c20ec8b61a381698734442351228ba64264d5bfe282721f258cb06a4"
-    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v1.0.3+0/SDPLR.v1.0.3.aarch64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "d69ce1a234deb839f78a46e8ff80b727edbedd401e8ddf3374f195a3271762a9"
+    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v100.1.300+0/SDPLR.v100.1.300.aarch64-linux-gnu-libgfortran5.tar.gz"
 [[SDPLR]]
 arch = "aarch64"
-git-tree-sha1 = "73aefd1e8870ca3bab1a0f0e374611e1cc05415b"
+git-tree-sha1 = "7fc57c96c6d3ea33221e8331bc3a61f2161c428e"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[SDPLR.download]]
-    sha256 = "384e81fe3ccccf42c4b0f406a5bedf8baa4fd3cb216a2016c9310417d7852e3d"
-    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v1.0.3+0/SDPLR.v1.0.3.aarch64-linux-musl-libgfortran3.tar.gz"
+    sha256 = "a05e991aa4231210c14edda167591198cbf4c5c0f3911e88b77622a0ac2316ba"
+    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v100.1.300+0/SDPLR.v100.1.300.aarch64-linux-musl-libgfortran3.tar.gz"
 [[SDPLR]]
 arch = "aarch64"
-git-tree-sha1 = "f9e94761bf4a39e80fda4bb774346bd668dc9bce"
+git-tree-sha1 = "a7d0cdf131944fc1ef12d5ccebbfa2d8778eac1d"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[SDPLR.download]]
-    sha256 = "cf2ff22d16ddb2b43372c4047d5e1f37c58e11220feed8d52f2b581e0a129712"
-    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v1.0.3+0/SDPLR.v1.0.3.aarch64-linux-musl-libgfortran4.tar.gz"
+    sha256 = "f0fe3572ae32e5dadb7fa606935020a7803705b6d98ed56be63e3b96eb7584c6"
+    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v100.1.300+0/SDPLR.v100.1.300.aarch64-linux-musl-libgfortran4.tar.gz"
 [[SDPLR]]
 arch = "aarch64"
-git-tree-sha1 = "31716f86957b651953291b0ff621efdee0664818"
+git-tree-sha1 = "7fa095b1d4cb54f3f2191b9053dfdb3208a7068d"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SDPLR.download]]
-    sha256 = "f8cbf6f25a3e3be002e7cd97fce90320ebc482cd95a67bad26f95cd31f69fa87"
-    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v1.0.3+0/SDPLR.v1.0.3.aarch64-linux-musl-libgfortran5.tar.gz"
+    sha256 = "e8e10e1e8b6e7324f28134d2e46c74f3c1e14cb35ddb701e4ce0f943b08f757a"
+    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v100.1.300+0/SDPLR.v100.1.300.aarch64-linux-musl-libgfortran5.tar.gz"
 [[SDPLR]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "6e7733abbf71972a1383d8d8d12b240adbb3982a"
+git-tree-sha1 = "c7b8f493a7f997bab9143a006723b038e2771ed7"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[SDPLR.download]]
-    sha256 = "1c4be10c07d6d13a1ddfde12a5b7bf4424dfddf78a50c8261ed3368e3891e5e5"
-    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v1.0.3+0/SDPLR.v1.0.3.armv6l-linux-gnueabihf-libgfortran3.tar.gz"
+    sha256 = "89825571da8c133ddeb0e05bc8eadc83b0138a9746e9938eb65c828557f58d3e"
+    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v100.1.300+0/SDPLR.v100.1.300.armv6l-linux-gnueabihf-libgfortran3.tar.gz"
 [[SDPLR]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "e2c2a6da0943ec04a16e37e795643381901d5d07"
+git-tree-sha1 = "2450c74c56a5d5bf7bb6bf566f6311de685105ad"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[SDPLR.download]]
-    sha256 = "bbea33f65b60881610a45f85aa34e5460ecc7c229d99c7f9bbb2e1adec38142d"
-    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v1.0.3+0/SDPLR.v1.0.3.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
+    sha256 = "afeef87be7a7347ef9a2be17a8790a6bd86b395a3c8119fa94ea05f4ee7e7944"
+    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v100.1.300+0/SDPLR.v100.1.300.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
 [[SDPLR]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "1cab91bdff8b02c86ea04f2bdde04c3b5ab4a478"
+git-tree-sha1 = "ddb1e584fada442617ddb48b334459e58f5bce35"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SDPLR.download]]
-    sha256 = "2bfdd1af812897c8ac7552ba1f4a7b3181c52e50d77c47d67ea9b98d0cdc0942"
-    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v1.0.3+0/SDPLR.v1.0.3.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
+    sha256 = "98f11669ee04108c83bc0258a50697b954b1ae88367c755953fe334f697b02e6"
+    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v100.1.300+0/SDPLR.v100.1.300.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
 [[SDPLR]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "e3aa3f462f02b1a56904273b661a6b8669475ac5"
+git-tree-sha1 = "798dcba54db7be49a4452e0542e1662bd80d78ce"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[SDPLR.download]]
-    sha256 = "ce84867ca13ef5df1a72d38e394acb5702075394688dbb3297d54cf4f55a6654"
-    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v1.0.3+0/SDPLR.v1.0.3.armv6l-linux-musleabihf-libgfortran3.tar.gz"
+    sha256 = "5eaa3e05793fa7515350c7396f88be615f07feb2a28810f802594c7e5fdf593e"
+    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v100.1.300+0/SDPLR.v100.1.300.armv6l-linux-musleabihf-libgfortran3.tar.gz"
 [[SDPLR]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "6ba0b19afd3685721fa7d90035d12c87522e39eb"
+git-tree-sha1 = "57a96fbe3ad47a957b80fb5748ce6701e81bd371"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[SDPLR.download]]
-    sha256 = "af2a8328a75a739fdca6d8f6c4f289b50bd3e5785c45e1fb164c8b91c4bdb671"
-    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v1.0.3+0/SDPLR.v1.0.3.armv6l-linux-musleabihf-libgfortran4.tar.gz"
+    sha256 = "6553126de0048c4028dfa4145bde04772c655fc02bf692a0c4d42aeebd119e89"
+    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v100.1.300+0/SDPLR.v100.1.300.armv6l-linux-musleabihf-libgfortran4.tar.gz"
 [[SDPLR]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "7b9f93e22f0937775e03f7ccc88ca3adca85c4a3"
+git-tree-sha1 = "306a8a6830b6eaf8bc830e2f65b97ebe3b6cca82"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SDPLR.download]]
-    sha256 = "4365d3f8ab42160549c994ff4928d7cd8daa0737cdebb0ad9d025681073d31c7"
-    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v1.0.3+0/SDPLR.v1.0.3.armv6l-linux-musleabihf-libgfortran5.tar.gz"
+    sha256 = "0afb7465eac854e30ec074fb40537c300148c2fcc68d79eb708206562cabd08a"
+    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v100.1.300+0/SDPLR.v100.1.300.armv6l-linux-musleabihf-libgfortran5.tar.gz"
 [[SDPLR]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "2026760d70f896987ffdca7c59a572e9c5a8daf4"
+git-tree-sha1 = "3d59dd88651511d6e713086b5af6e84b6b906c97"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[SDPLR.download]]
-    sha256 = "0841c09d9ace84bd843e0359b8c36805b351641ed5c6fc622a7437028725eafb"
-    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v1.0.3+0/SDPLR.v1.0.3.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
+    sha256 = "f03bbb03bb1929c46e31cec4e5dc3e0b866e41ffd6f458e43826bf0bbb25e075"
+    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v100.1.300+0/SDPLR.v100.1.300.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
 [[SDPLR]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "5d086f643d84ca8fcd16e6837a4a6ffa5acf16c6"
+git-tree-sha1 = "f5dca44c18f3565d9c1fba5e07a650e99aa83fe4"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[SDPLR.download]]
-    sha256 = "f38865e41889681e53a7e7dc7cf9b20cb44c55fd26e4182a208958dd26c08403"
-    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v1.0.3+0/SDPLR.v1.0.3.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+    sha256 = "0ed075eb5e2907394259b1f0efbe4d0ad48d1887722497405643c0324a89be0a"
+    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v100.1.300+0/SDPLR.v100.1.300.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
 [[SDPLR]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "d0bf606cae4ba66ab1c98951456f381910c25eea"
+git-tree-sha1 = "90040738090f755a0d8f63a5e9915cbfe1c5e420"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SDPLR.download]]
-    sha256 = "ddfd4b38f652e33882b9bd248d200970a6b629ed62ac15ea60902de291decf6c"
-    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v1.0.3+0/SDPLR.v1.0.3.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+    sha256 = "18816a7f266973ff3fbe9e10d02ee1e929cc9350b7feda5919dc2d69bf5a8120"
+    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v100.1.300+0/SDPLR.v100.1.300.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
 [[SDPLR]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "8cf94d5d26761aef135d113d19eefadf2fbf7dc7"
+git-tree-sha1 = "c563968ad73f1186519ac8472aee8c441a2baa7f"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[SDPLR.download]]
-    sha256 = "222e071448188a4b2195db7cfd43122d190e6446f17010231892c2cc9f707075"
-    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v1.0.3+0/SDPLR.v1.0.3.armv7l-linux-musleabihf-libgfortran3.tar.gz"
+    sha256 = "b5cfcbd20b4943741e3279bc95081d5f1ef2460df15abe0bf2df955a5d017da4"
+    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v100.1.300+0/SDPLR.v100.1.300.armv7l-linux-musleabihf-libgfortran3.tar.gz"
 [[SDPLR]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "842cda965265ccd460f108f0e3f4c143cc8514ae"
+git-tree-sha1 = "93eb71be7957cb54d0e2c5c14b60a5de58b43820"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[SDPLR.download]]
-    sha256 = "17e954a359c96c7d388cca4bee40f74fa8fbf899973b31901de5491ac898b5c7"
-    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v1.0.3+0/SDPLR.v1.0.3.armv7l-linux-musleabihf-libgfortran4.tar.gz"
+    sha256 = "1f46085dcfbf1311b29e70958b36f412a7d585bc24aac00f3c3bd5e27f4150f3"
+    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v100.1.300+0/SDPLR.v100.1.300.armv7l-linux-musleabihf-libgfortran4.tar.gz"
 [[SDPLR]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "1f8fd234d547c54e424fdb2f9b80fc62607c1d60"
+git-tree-sha1 = "301fc63b63d064f3b0a844e2f5714428ee31b104"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SDPLR.download]]
-    sha256 = "8c00719397ac5214612ad212651ea8f565dbdb75744c56d0967bc3e1a1af8d77"
-    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v1.0.3+0/SDPLR.v1.0.3.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+    sha256 = "39d5660d1ccbfbdd6fa9121e7c548b0b43e9f9c92a3e77c2e5b5defbbf7ad7e6"
+    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v100.1.300+0/SDPLR.v100.1.300.armv7l-linux-musleabihf-libgfortran5.tar.gz"
 [[SDPLR]]
 arch = "i686"
-git-tree-sha1 = "c6f22f079707a3f6350b74fdb514c7d0c4953d70"
+git-tree-sha1 = "e267f0a96abe98c7eea4c4b0746760945987e9e9"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[SDPLR.download]]
-    sha256 = "1fb4c44551faf5e2875723ff2961ddb99c96ec0db5feeda29b20704bad3564a7"
-    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v1.0.3+0/SDPLR.v1.0.3.i686-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "b7b00c9a922d4acc45a85c29a95e612a68cd26e4e7bdf7f6b5ba5e3981f5cb24"
+    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v100.1.300+0/SDPLR.v100.1.300.i686-linux-gnu-libgfortran3.tar.gz"
 [[SDPLR]]
 arch = "i686"
-git-tree-sha1 = "d43fb14cf15921c4e27e3aca20a3c2701bf1dbad"
+git-tree-sha1 = "fe5fa287ab547fc8c1534b7a054f4e23cdcf5009"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[SDPLR.download]]
-    sha256 = "48315fbd185db582e056d56a398223371dcc07f439bcf2179032ee7919fd7bee"
-    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v1.0.3+0/SDPLR.v1.0.3.i686-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "91aa51b2a147c2c1cfac2b4915c06437b0aac2f2811596eedba31173dd59d9f1"
+    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v100.1.300+0/SDPLR.v100.1.300.i686-linux-gnu-libgfortran4.tar.gz"
 [[SDPLR]]
 arch = "i686"
-git-tree-sha1 = "d8b256a8c04697242c9869929786d2ab5ba7151d"
+git-tree-sha1 = "72d51f3deae158ee1a193f99c544cad84a473951"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SDPLR.download]]
-    sha256 = "71af5adba56099c565443520f4829311bb560475ddd12adb6f2e313f61c59908"
-    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v1.0.3+0/SDPLR.v1.0.3.i686-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "f246459c1459bbae73d2b51ea6347cb42ab9ae524ce961c722bf421c4e5977f5"
+    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v100.1.300+0/SDPLR.v100.1.300.i686-linux-gnu-libgfortran5.tar.gz"
 [[SDPLR]]
 arch = "i686"
-git-tree-sha1 = "bae311fc6b104b4e08756e06b55fef82b2838ac8"
+git-tree-sha1 = "2630d8255f2f1fd1c91143e82ae1c0feb3367cc2"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[SDPLR.download]]
-    sha256 = "7394427a9049177be6e5c4aaf143a54967cf60f905f712fa539186bb3adf847e"
-    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v1.0.3+0/SDPLR.v1.0.3.i686-linux-musl-libgfortran3.tar.gz"
+    sha256 = "9ee2951aff82f6c48d6efea815a06f09dead041cc7278898b623031794aedfce"
+    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v100.1.300+0/SDPLR.v100.1.300.i686-linux-musl-libgfortran3.tar.gz"
 [[SDPLR]]
 arch = "i686"
-git-tree-sha1 = "ec86491cdc004837c35b75229be1eaaa03b2378b"
+git-tree-sha1 = "c71120b9d4b0a279d84d39a7afcbd2e6692d6295"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[SDPLR.download]]
-    sha256 = "0b8fc1601d588eefa785f7deca85956286fb92650dcb0fafd0ab08e27d1dce91"
-    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v1.0.3+0/SDPLR.v1.0.3.i686-linux-musl-libgfortran4.tar.gz"
+    sha256 = "31828189c4b00d5c553f192febfe98c2a0b3c1424ec7dc372c5566962bc7dfa2"
+    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v100.1.300+0/SDPLR.v100.1.300.i686-linux-musl-libgfortran4.tar.gz"
 [[SDPLR]]
 arch = "i686"
-git-tree-sha1 = "b233b8df17df18bb61431dee8532ff52e6a83f39"
+git-tree-sha1 = "039d479944b04f8a67813117d4099f9e643591f5"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SDPLR.download]]
-    sha256 = "317fdb1bf1d5528fceb13fcea13c833811b51f0ed68a2376c4bbb0308dd8ca68"
-    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v1.0.3+0/SDPLR.v1.0.3.i686-linux-musl-libgfortran5.tar.gz"
+    sha256 = "19b11b65f8ce7fde7c614da3304c759ff38044888c622eeea7b9a32774f4328c"
+    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v100.1.300+0/SDPLR.v100.1.300.i686-linux-musl-libgfortran5.tar.gz"
 [[SDPLR]]
 arch = "i686"
-git-tree-sha1 = "be259320103f48a339b5fdc1a25dd49afb69c861"
+git-tree-sha1 = "5c56aac40c8a0ca0397ea86c7b64f0bccbcf2f94"
 libgfortran_version = "3.0.0"
 os = "windows"
 
     [[SDPLR.download]]
-    sha256 = "b40f4343150fe357e9871cede4f9ca12693eece1a5777673df37e99cfe351dc5"
-    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v1.0.3+0/SDPLR.v1.0.3.i686-w64-mingw32-libgfortran3.tar.gz"
+    sha256 = "7dfa537f03bf3aada244844f33e123252cf6d979168c0a13bf044bcd84d30040"
+    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v100.1.300+0/SDPLR.v100.1.300.i686-w64-mingw32-libgfortran3.tar.gz"
 [[SDPLR]]
 arch = "i686"
-git-tree-sha1 = "2ea28ac8fd0a1443add818a27c8b03bc29a0fab7"
+git-tree-sha1 = "6b6f6e4b24cb637e98bdf61461a8b7836e6010fc"
 libgfortran_version = "4.0.0"
 os = "windows"
 
     [[SDPLR.download]]
-    sha256 = "0d654360b631e66db46552a8e1998075025d4e6aa9d69620f3baefb30a15bea0"
-    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v1.0.3+0/SDPLR.v1.0.3.i686-w64-mingw32-libgfortran4.tar.gz"
+    sha256 = "e46b063a31bd7db2c89f635b1c8c62a3dee5d89da8d5933cba6b336c3456df53"
+    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v100.1.300+0/SDPLR.v100.1.300.i686-w64-mingw32-libgfortran4.tar.gz"
 [[SDPLR]]
 arch = "i686"
-git-tree-sha1 = "dbec108b2b57d7f35c4c4365e276a02897af95c3"
+git-tree-sha1 = "4aa7d73932e0151ec91ceb1d668c79e7f20ff9a2"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[SDPLR.download]]
-    sha256 = "68b60baa81ab1671c21d129619ce1a68bca4f217a1ebd268bcafe6921ed22eab"
-    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v1.0.3+0/SDPLR.v1.0.3.i686-w64-mingw32-libgfortran5.tar.gz"
+    sha256 = "9a1f0e04a51ad9093270ff26f7e85e03a6749a23b1f76ff9eef68eedc32924c9"
+    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v100.1.300+0/SDPLR.v100.1.300.i686-w64-mingw32-libgfortran5.tar.gz"
 [[SDPLR]]
 arch = "powerpc64le"
-git-tree-sha1 = "ce11e0ae236fd139ecb0d30a15112061657fc06e"
+git-tree-sha1 = "ac13e183100f2614461cc0b4aace6237c4569fb0"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[SDPLR.download]]
-    sha256 = "1ecff462133f148c58b5e5882c8732b0e45fe746466eaccd047d29c56a64024d"
-    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v1.0.3+0/SDPLR.v1.0.3.powerpc64le-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "37c556ca8daf6b05f7206517cadf1efdf05236c4c83f6b84ca46d251e86b7706"
+    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v100.1.300+0/SDPLR.v100.1.300.powerpc64le-linux-gnu-libgfortran3.tar.gz"
 [[SDPLR]]
 arch = "powerpc64le"
-git-tree-sha1 = "aed2db27a987c017f46f79d350e25b5cb866edd1"
+git-tree-sha1 = "602e46e58924cfc6b41771c4898d8e069b28a6ad"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[SDPLR.download]]
-    sha256 = "bfbd41c8d48597c4c3d4b26e32d0366e3a476c4642c0ef0b5979458fa24ee258"
-    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v1.0.3+0/SDPLR.v1.0.3.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "6142e5b22e6e1d560d83e1bc10eccebb27e9fefb8f89b8d43fd64095b00735b3"
+    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v100.1.300+0/SDPLR.v100.1.300.powerpc64le-linux-gnu-libgfortran4.tar.gz"
 [[SDPLR]]
 arch = "powerpc64le"
-git-tree-sha1 = "f445ef03ced19455c6e81952bf740f18afcc4726"
+git-tree-sha1 = "3663bba3039980c6d25e3d7fbd0c2b6470788b69"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SDPLR.download]]
-    sha256 = "82e864f96c296ee10a993e4876e9d68d95c32d268b106926ec53b07da531880b"
-    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v1.0.3+0/SDPLR.v1.0.3.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "d6275dc467c07814db175f1c5071f34e86786cf7463c3ff6af2c523ce552653c"
+    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v100.1.300+0/SDPLR.v100.1.300.powerpc64le-linux-gnu-libgfortran5.tar.gz"
 [[SDPLR]]
 arch = "x86_64"
-git-tree-sha1 = "fd8defdb74cac00e031da631bad0f8546165cfb6"
+git-tree-sha1 = "8e167d06b97cee1a1b0a2568cb29465b27b04343"
 libgfortran_version = "3.0.0"
 os = "macos"
 
     [[SDPLR.download]]
-    sha256 = "d2b860d04e19531948eec5b77afe5aabb9f827bd2a1e55277be835db770c9e6b"
-    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v1.0.3+0/SDPLR.v1.0.3.x86_64-apple-darwin-libgfortran3.tar.gz"
+    sha256 = "cdb82c7f3d7d6178ab31282c681b40fa8fa3c617ceac2f6a7106f4214ac0ac78"
+    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v100.1.300+0/SDPLR.v100.1.300.x86_64-apple-darwin-libgfortran3.tar.gz"
 [[SDPLR]]
 arch = "x86_64"
-git-tree-sha1 = "1ab75bcf1ad0e765b24c94e5f4902e5c58c0ce48"
+git-tree-sha1 = "179b079a80c5ab2ec74e9316549b71c674469c24"
 libgfortran_version = "4.0.0"
 os = "macos"
 
     [[SDPLR.download]]
-    sha256 = "b222c715d25781d0d3e99b28fbb99b37ab2bb6789015776c5b75e85df087edbb"
-    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v1.0.3+0/SDPLR.v1.0.3.x86_64-apple-darwin-libgfortran4.tar.gz"
+    sha256 = "0a3946537ec9d316c5fce9951f2842a476f75ed5e30e8e9db07529c4ab7b217f"
+    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v100.1.300+0/SDPLR.v100.1.300.x86_64-apple-darwin-libgfortran4.tar.gz"
 [[SDPLR]]
 arch = "x86_64"
-git-tree-sha1 = "0717284d75fbd23fec5eb9fd7beb1f698446b1bd"
+git-tree-sha1 = "469dc700a644c27a8e615da778bf515d3c04812d"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[SDPLR.download]]
-    sha256 = "f46046deaae20fa5e9791e3c43737e7622b4c47be8566c5706f784c28cbd9a0b"
-    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v1.0.3+0/SDPLR.v1.0.3.x86_64-apple-darwin-libgfortran5.tar.gz"
+    sha256 = "2873e5e9de67a729348827d7779f963172e862b4cc837a152e5a8490e50007dd"
+    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v100.1.300+0/SDPLR.v100.1.300.x86_64-apple-darwin-libgfortran5.tar.gz"
 [[SDPLR]]
 arch = "x86_64"
-git-tree-sha1 = "9fdc8aa9ba06eb79cf5205dba3d9fe8a1f2c89de"
+git-tree-sha1 = "c514df13b37bb2fad59371663fa1d7d678950131"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[SDPLR.download]]
-    sha256 = "f7f75abc573fe239920dae19f15d62cbcb7447612b7dac3ad4c37d0ff3023374"
-    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v1.0.3+0/SDPLR.v1.0.3.x86_64-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "9b781a13c2a7380fcf25ea942956e67c672218a4f201c80dcd3c82dd3aafb4b7"
+    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v100.1.300+0/SDPLR.v100.1.300.x86_64-linux-gnu-libgfortran3.tar.gz"
 [[SDPLR]]
 arch = "x86_64"
-git-tree-sha1 = "784d4c82b0ca411f623999d7bd3a7f9c9d1fce3e"
+git-tree-sha1 = "75050f7b87076d59689fc2c36b1208d5f8fa750d"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[SDPLR.download]]
-    sha256 = "42a345e48aee512556ff4c0a2c0164bff40b3d6e3e2c93c071dcce14b06a7b5c"
-    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v1.0.3+0/SDPLR.v1.0.3.x86_64-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "f3d3206827dc77d41a4776cafd102be16730832959f75bc206337f7c5814899a"
+    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v100.1.300+0/SDPLR.v100.1.300.x86_64-linux-gnu-libgfortran4.tar.gz"
 [[SDPLR]]
 arch = "x86_64"
-git-tree-sha1 = "92d00372916560062d8795aa2fe9a63587797e39"
+git-tree-sha1 = "810bc62e667bb658b8a84452955ed02d8c0f4807"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SDPLR.download]]
-    sha256 = "196449d381eac822e1429f733ef44bad5c937487a306a15bd3e327247e7453ca"
-    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v1.0.3+0/SDPLR.v1.0.3.x86_64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "defca0b1cae876b4cd6e48609840435de7d3e20a6615f0ca580dc549ba874c20"
+    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v100.1.300+0/SDPLR.v100.1.300.x86_64-linux-gnu-libgfortran5.tar.gz"
 [[SDPLR]]
 arch = "x86_64"
-git-tree-sha1 = "b5c3c9edf55dbdd05f8969b34af1453e331ae955"
+git-tree-sha1 = "4e95783c7df59f890832217e7e4a0e9e1a7fce2b"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[SDPLR.download]]
-    sha256 = "0d84ac4a80776c80fbbbf2e1dd924e1fa73798ab7cd0691d7612fe1191f7193a"
-    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v1.0.3+0/SDPLR.v1.0.3.x86_64-linux-musl-libgfortran3.tar.gz"
+    sha256 = "881aeb9e6c0dfda29ebdfc7295880d256b591df4930c1a815dc658ffed517545"
+    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v100.1.300+0/SDPLR.v100.1.300.x86_64-linux-musl-libgfortran3.tar.gz"
 [[SDPLR]]
 arch = "x86_64"
-git-tree-sha1 = "b49ab5ce3cd8f6e2b2b5cd36a529bfae791dd161"
+git-tree-sha1 = "08b4ffcccf03a317d045c9436b838a0ae3f2397c"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[SDPLR.download]]
-    sha256 = "be14baf4055ce876d595917c75db921508818a2a01e154031e88a43a48a5464c"
-    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v1.0.3+0/SDPLR.v1.0.3.x86_64-linux-musl-libgfortran4.tar.gz"
+    sha256 = "defce671e4eac26d133edade5a92c54cad09949ede0f57c321d88ee0cefc4101"
+    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v100.1.300+0/SDPLR.v100.1.300.x86_64-linux-musl-libgfortran4.tar.gz"
 [[SDPLR]]
 arch = "x86_64"
-git-tree-sha1 = "94c26c43922e245a6f14ffe352fbb953bcf97e55"
+git-tree-sha1 = "294c63bf0a7cc4d5ed6b71e3f89613827ac72055"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SDPLR.download]]
-    sha256 = "df7f153ec542ddb2640252cfc8aa073bcd67ff920fbfee2d92e5e5cb8e69cf1e"
-    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v1.0.3+0/SDPLR.v1.0.3.x86_64-linux-musl-libgfortran5.tar.gz"
+    sha256 = "90ee83b82a182c3693ce964178e2171ba6786c627afc84cd729f58e7b13b7eed"
+    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v100.1.300+0/SDPLR.v100.1.300.x86_64-linux-musl-libgfortran5.tar.gz"
 [[SDPLR]]
 arch = "x86_64"
-git-tree-sha1 = "ad79c5cfb430d3b7cb92d08ae48c3f7f7749e8cf"
+git-tree-sha1 = "fa7a7ed0c0aad94b7b9c21c8b1d34d8b3e0ef57d"
 libgfortran_version = "3.0.0"
 os = "freebsd"
 
     [[SDPLR.download]]
-    sha256 = "217aaa06de4fdf6a7492257298ac041c2a3b7f12dbab31fc34d83951795dd047"
-    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v1.0.3+0/SDPLR.v1.0.3.x86_64-unknown-freebsd-libgfortran3.tar.gz"
+    sha256 = "ae62abb842846ac8b35c14c26ffc6e47c6caecbed82a9d31342b4cbe008b6c2e"
+    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v100.1.300+0/SDPLR.v100.1.300.x86_64-unknown-freebsd-libgfortran3.tar.gz"
 [[SDPLR]]
 arch = "x86_64"
-git-tree-sha1 = "1bcf5acd7698bccbbd87b0019e8a3ed5ac9bb04a"
+git-tree-sha1 = "9ae88d5ad7dda060fed8e8b0c58ddfb1215d95ef"
 libgfortran_version = "4.0.0"
 os = "freebsd"
 
     [[SDPLR.download]]
-    sha256 = "eb11ebfc686cd7583661c312b5f9c4b313341cd648d23043d458b588fb6fced7"
-    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v1.0.3+0/SDPLR.v1.0.3.x86_64-unknown-freebsd-libgfortran4.tar.gz"
+    sha256 = "fd352e1cc94106a44b2a47ed41e983d897a777894348aeb8ddec6d450b90dccc"
+    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v100.1.300+0/SDPLR.v100.1.300.x86_64-unknown-freebsd-libgfortran4.tar.gz"
 [[SDPLR]]
 arch = "x86_64"
-git-tree-sha1 = "f33f54197cf4a900b67064974dd6243651e17484"
+git-tree-sha1 = "940b3c880433a98ca5420983bb60040c2b686291"
 libgfortran_version = "5.0.0"
 os = "freebsd"
 
     [[SDPLR.download]]
-    sha256 = "02554b4f3f7803800dbdd1255414c811721c651b7c06d5963895a255f8b1414d"
-    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v1.0.3+0/SDPLR.v1.0.3.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+    sha256 = "cfcd38d4464b65a9fd77838c6c6d14535f51656a76538b1fd6146e6f54097b2b"
+    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v100.1.300+0/SDPLR.v100.1.300.x86_64-unknown-freebsd-libgfortran5.tar.gz"
 [[SDPLR]]
 arch = "x86_64"
-git-tree-sha1 = "a555b077c59bb74380d96e7c55f960b70f81bba1"
+git-tree-sha1 = "0ee08f74049c4adc352baacd3e58ad58874bae2b"
 libgfortran_version = "3.0.0"
 os = "windows"
 
     [[SDPLR.download]]
-    sha256 = "fbf4b06656293f5d77aad53aeb128723cb2f65587c688d9fff637989fa20bef8"
-    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v1.0.3+0/SDPLR.v1.0.3.x86_64-w64-mingw32-libgfortran3.tar.gz"
+    sha256 = "9c48410cafbbf7e9d59571281505273bf3646f1994c7b0f46a5e12308e35b07b"
+    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v100.1.300+0/SDPLR.v100.1.300.x86_64-w64-mingw32-libgfortran3.tar.gz"
 [[SDPLR]]
 arch = "x86_64"
-git-tree-sha1 = "ea77079444f26373219929b303e00ffc68751b4d"
+git-tree-sha1 = "4b5dd9c78351c755dd9b408429a21b0215419489"
 libgfortran_version = "4.0.0"
 os = "windows"
 
     [[SDPLR.download]]
-    sha256 = "054cac16aa482f92729e96f970590d33431bb9bd5d6ed1cf28dda26530d1babe"
-    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v1.0.3+0/SDPLR.v1.0.3.x86_64-w64-mingw32-libgfortran4.tar.gz"
+    sha256 = "461c172820de14136e41f0226b28e703849dd1b69f64670347dd6a17b017533b"
+    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v100.1.300+0/SDPLR.v100.1.300.x86_64-w64-mingw32-libgfortran4.tar.gz"
 [[SDPLR]]
 arch = "x86_64"
-git-tree-sha1 = "3f04bfc1990f6addaeae0f62ca15fce40961bbb4"
+git-tree-sha1 = "098d0f444968ef9c0e3262eb91609318a4245a69"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[SDPLR.download]]
-    sha256 = "ef2bc3e5a48cb79bb41e338d79c5464841a9a9ea4eee17481ec7119687d4455e"
-    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v1.0.3+0/SDPLR.v1.0.3.x86_64-w64-mingw32-libgfortran5.tar.gz"
+    sha256 = "c5e8b1ea8fc7f07fc8a6ff3271c3672ffe88b73af2853fbc8f7211a1972d41c4"
+    url = "https://github.com/JuliaBinaryWrappers/SDPLR_jll.jl/releases/download/SDPLR-v100.1.300+0/SDPLR.v100.1.300.x86_64-w64-mingw32-libgfortran5.tar.gz"
