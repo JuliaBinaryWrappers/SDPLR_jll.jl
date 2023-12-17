@@ -1,6 +1,6 @@
 name = "SDPLR_jll"
 uuid = "3a057b76-36a0-51f0-a66f-6d580b8e8efd"
-version = "100.1.300+0"
+version = "100.2.300+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
